@@ -1,2 +1,0 @@
-# Spider
-Baidubaike_Spider
